@@ -1,0 +1,21 @@
+/* .banner {
+ 
+
+  transition: transform 0.2s;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+} */
+
+/* .banner :hover {
+  transform: scale(1.06);
+} */
+.banner img {
+  opacity: 0.5;
+}
+.banner {
+  background-color: black;
+}
+/* .banner-txt {
+  margin-top: -200px;
+} */
