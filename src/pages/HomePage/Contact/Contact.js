@@ -2,6 +2,7 @@
 import React from 'react';
 
 //imported bootstrap
+//using bootstrap
 import { Button, Form } from 'react-bootstrap';
 
 const Contact = () => {
