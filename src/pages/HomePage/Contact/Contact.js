@@ -1,5 +1,8 @@
 
 import React from 'react';
+
+//imported bootstrap
+//using bootstrap
 import { Button, Form } from 'react-bootstrap';
 
 const Contact = () => {
@@ -26,5 +29,5 @@ const Contact = () => {
    </div>
     );
 };
-
+//this is a contact form 
 export default Contact;
