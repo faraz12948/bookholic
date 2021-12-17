@@ -26,5 +26,5 @@ const Contact = () => {
    </div>
     );
 };
-
+//this is a contact form 
 export default Contact;
